@@ -1,4 +1,4 @@
- ***DREADED-V2***
+ ***DYSON-V2***
 
 <div align="center">
 
@@ -20,11 +20,11 @@
 
 
 ## FEATURES
-`This bot is a modification of the predecessor ***`dreaded-md`*** but we changed the module to commonJs. It has group management features, some media commands, image manipulation commands as well as AI and many other features incorporated.`
+`This bot is a modification of the predecessor ***`dyson-v2`*** but we changed the module to commonJs. It has group management features, some media commands, image manipulation commands as well as AI and many other features incorporated.`
 
  `Some AI and media commands use our API. This API is not very reliable hence sometimes there may be a downtime.`
 
- `If you are a developer you can check out our`  [`API SITE`](https://api.dreaded.site).
+ `If you are a developer you can check out our`  [`API SITE`](https://api.dysons.site).
 
  `The API site contains many endpoints that can be used in your projects. No need for API keys or login, completely free, for now`
 
@@ -34,13 +34,13 @@
 
 <h2 align="center">   
 
-- ***You MUST `fork` this repo before fetching pairing code. Fork this repo by tapping  [`here`](https://github.com/Fortunatusmokaya/dreaded-v2/fork)***
+- ***You MUST `fork` this repo before fetching pairing code. Fork this repo by tapping  [`here`](https://github.com/Fortunatusmokaya/dyson-v2/fork)***
 
 
 ## Pairing:
 
 
-- ***`Get your Session Id` by  [`PAIRING CODE HERE`](https://pair.dreaded.site). `or` [`HERE`](https://pair.dreaded.site).***
+- ***`Get your Session Id` by  [`DYSON-V2 PAIRING CODE HERE`](https://pair.dyson.site). `or` [`HERE`](https://pair.dyson.site).***
 
 
 
@@ -52,7 +52,7 @@
    - ***[`CREATE HEROKU ACCOUNT`](https://signup.heroku.com/) `if you don't have one.`***
 
 
-- ***Now [`DEPLOY TO HEROKU`](https://dashboard.heroku.com/new?template=https://github.com/Fortunatusmokaya/dreaded-v2).***
+- ***Now [`DEPLOY TO HEROKU`](https://dashboard.heroku.com/new?template=https://github.com/Fortunatusmokaya/dyson-v2).***
 
 -***`Fill in all the required variables and deploy the bot.`***
 
@@ -67,8 +67,8 @@
 apt update && apt upgrade
 apt install git -y
 apt install nodejs -y
-git clone https://github.com/Fortunatusmokaya/dreaded-v2
-cd dreaded-v2
+git clone https://github.com/Fortunatusmokaya/dyson-v2
+cd dyson-v2
 npm install
 ```
 ## START BOT
@@ -132,15 +132,15 @@ Thanks to...
   </a>
 
 
-Incase of any issues, contact me  [here](https://wa.me/+254114018035) via WhatsApp.
+Incase of any issues, contact me  [here](https://wa.me/+254786299213) via WhatsApp.
 
 Modifying the bot structure is at your own risk. We won't offer technical support if error occur.
 
 
 ## License
 
-[MIT License](https://github.com/Fortunatusmokaya/dreaded-v2/blob/main/LICENSE)
+[MIT License](https://github.com/Fortunatusmokaya/dyson-v2/blob/main/LICENSE)
 
-Copyright (c) 2024 DREADED-V2
+Copyright (c) 2024 DYSON-V2
 
 
